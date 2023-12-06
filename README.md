@@ -1,5 +1,9 @@
 # Azure-configuration-infrastructure-file-using-terraform
-> Project line: Here, I am deploying azure infrasructure using terraform cloud
+- Project line: This project involves the creation of an Azure infrastructure configuration file using Terraform. Terraform is an open-source infrastructure as code software tool that enables you to safely and predictably create, change, and improve infrastructure. In this project, you have used Terraform to define and provide data center infrastructure using a declarative configuration language.
+- By using Terraform, you’ve ensured that the infrastructure setup is repeatable with the same configurations. This eliminates the possibility of human error during the setup process and also makes the setup process faster and more efficient.
+
+Special note:
+> This project demonstrates my skills in infrastructure automation, cloud computing, and specifically your expertise in using Terraform with Microsoft Azure. It’s a great example of how infrastructure as code can simplify and streamline the process of managing and provisioning cloud resources. It is really good experience on completing this project. It’s a significant contribution to the field of DevOps and cloud infrastructure management.
 
 ![image](https://github.com/Kamalesh3112/Azure-configuration-infrastructure-file-using-terraform/assets/72293918/e761975b-bc9a-419b-af3d-2809eed3ffae)
 
