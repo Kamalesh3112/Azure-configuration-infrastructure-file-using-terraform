@@ -26,3 +26,6 @@
 - This project comes under Infrastructure as a Code(IaaC) platform from DevOps.
 - Cloud service used are Microsoft Azure and Terraform Cloud.
 - The main objective of this project is to represent the configuration that is created in the azure cloud using the configuration management tool called as **Terraform**
+
+# Project note:
+- Note that between the terraform format files such as .hcl and .tf files, Either the format files are same.
