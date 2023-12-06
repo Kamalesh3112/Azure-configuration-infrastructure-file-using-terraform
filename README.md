@@ -32,3 +32,6 @@
 
 # Project note:
 - Note that between the terraform format files such as .hcl and .tf files, Either the format files are same.
+
+# Download link for terraform:
+- Redirect to this download page for terraform: https://developer.hashicorp.com/terraform/install
