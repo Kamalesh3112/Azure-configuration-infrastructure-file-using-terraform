@@ -1,6 +1,9 @@
 # Azure-configuration-infrastructure-file-using-terraform
 > Project line: Here, I am deploying azure infrasructure using terraform cloud
 
+![image](https://github.com/Kamalesh3112/Azure-configuration-infrastructure-file-using-terraform/assets/72293918/e761975b-bc9a-419b-af3d-2809eed3ffae)
+
+
 # What is terraform?
 - Terraform is a configuration management tool that is used for to define and present the cloud and software applications in the form of human recognizable configuration code using which you can reuse, alter and share the files.
 - It allows teams to work together with a unified set of practices and tools to deliver applications and their supporting infrastructure rapidly and reliably at scale.
