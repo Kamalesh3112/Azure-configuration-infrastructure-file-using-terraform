@@ -17,21 +17,21 @@
 ## Configuration language
 - Hashicorp Configuration Language (HCL)
 
-## So let's look into what is meant by Terraform Cloud?
+### So let's look into what is meant by Terraform Cloud?
 - It is central service that allows to write code and manage all the resources using any data center using terraform which is basically an configuration management tool for Infrastructure as a Code (IaaC).
 
 ![image](https://github.com/Kamalesh3112/Azure-configuration-infrastructure-file-using-terraform/assets/72293918/8920d490-d12d-4526-a566-335fdceaa21d)
 > Head over to the above image for to understand the workflow of the terraform in the real time infrastructure
 
-# Infrastructure code using HCL:
+## Infrastructure code using HCL:
 - Find the HCL code files in the above repository dropdown to better understand the infrastructure in the form of code.
 - The code compiler used for this project is Visual Studio Code (VS Code).
 - This project comes under Infrastructure as a Code(IaaC) platform from DevOps.
 - Cloud service used are Microsoft Azure and Terraform Cloud.
 - The main objective of this project is to represent the configuration that is created in the azure cloud using the configuration management tool called as **Terraform**
 
-# Project note:
+## Project note:
 - Note that between the terraform format files such as .hcl and .tf files, Either the format files are same.
 
-# Download link for terraform:
+## Download link for terraform:
 - Redirect to this download page for terraform: https://developer.hashicorp.com/terraform/install
